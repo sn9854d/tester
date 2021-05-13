@@ -1,8 +1,0 @@
-this is form update branch thank you
- and you can update this out thank you.
-<<<<<<< HEAD
-this will cause the conflict in merging.
-=======
-this will cause conflict in the merging
-
->>>>>>> conflict-brach
